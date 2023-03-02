@@ -1,5 +1,5 @@
-Minhan Tang's GitHub Portfolio Page
-
+# Minhan Tang's GitHub Portfolio Page
+Thanks to Html5, I don't need to code too much to create my own GitHub portfolio page.  
 
 Credits:
 
